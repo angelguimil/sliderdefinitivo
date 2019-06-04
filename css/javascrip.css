@@ -1,0 +1,30 @@
+body{
+	background-image:url(../imagenes/fondo.jpg);
+}
+form{
+	margin-left: 50%;
+	margin-top: 1%;
+}
+#imagen{
+	width:600px;
+	height: 600px;
+	margin-left:30%;
+	z-index: -1;
+	position: absolute;
+}
+#mas{
+	margin-left: 80%;
+	margin-top: 25%;
+	position: absolute;
+	z-index: 1;
+	background-color: yellow;
+	border-radius: 50%;
+}
+#menos{
+	margin-left: 20%;
+	margin-top: 25%;
+	position: absolute;
+	z-index: 1;
+	background-color: yellow;
+	border-radius: 50%;
+}
